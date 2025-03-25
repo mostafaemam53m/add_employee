@@ -1,0 +1,16 @@
+[
+    {
+        "name": "ahmed",
+        "email": "ahmed@gmail.com",
+        "salary": "250",
+        "phone": "01054154512",
+        "type": "full_time"
+    },
+    {
+        "name": "ali",
+        "email": "ali@gmail.com",
+        "salary": "1420",
+        "phone": "0101541214",
+        "type": "full_time"
+    }
+]
